@@ -10,5 +10,5 @@ contains some theory, as well as some exercises.
 
 ## Goal of the lab
 
-Complete the exercises of the notebook, and upload it with the following name: *IZ-lab1* into ILIAS. Please, even if you
+Complete the exercises of the notebook, and upload it with the following name: *RZ-lab1* into ILIAS. Please, even if you
 work as a group, each person must upload their own copy.
